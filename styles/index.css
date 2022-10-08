@@ -4,3 +4,12 @@
     color: grey;
     font-family: 'Source Sans Pro', sans-serif;
 }
+
+.homepagelinkdisplay{
+    font-weight: bold;
+}
+
+.carousel-image{
+    max-height: 800px;
+    object-fit: cover;
+}
