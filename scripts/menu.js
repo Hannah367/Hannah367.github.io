@@ -5,6 +5,8 @@ document.write('<li class="nav-item"><a class="nav-link" href="index.html">Home<
 
 document.write('<li class="nav-item"><a class="nav-link" href="about.html">About Me</a></li>');
 
+document.write('<li class="nav-item"><a class="nav-link" href="skills.html">Skills</a></li>');
+
 document.write('<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Highlights</a>');
 document.write('<ul class="dropdown-menu">');
 document.write('<li><a class="dropdown-item" href="safetyapp.html">Night Owl</a></li>');

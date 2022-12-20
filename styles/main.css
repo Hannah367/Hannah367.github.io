@@ -46,3 +46,16 @@ img {
     padding-top: 50px;
     text-align: center;
 }
+
+.indentedTitle{
+    margin: 10px;
+}
+.indentedList{
+    margin: 20px;
+}
+
+.introText{
+    margin:25px;
+    text-align: center;
+    font-size:18px;
+}
