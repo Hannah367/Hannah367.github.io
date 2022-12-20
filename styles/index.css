@@ -1,15 +1,45 @@
 .title{
     text-align: center;
     font-size: 60px;
-    color: grey;
+    color: rgb(52, 51, 51);
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-.homepagelinkdisplay{
-    font-weight: bold;
+.aboutMe{
+    margin:25px;
+    text-align: center;
+    font-size:22px;
 }
 
-.carousel-image{
-    max-height: 800px;
-    object-fit: cover;
+.introText{
+    margin:25px;
+    text-align: center;
+    font-size:18px;
 }
+
+.homepageLink{
+    text-decoration: none;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.homepageImage{
+    max-width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    height: 200px;
+    margin-bottom: 5px;
+}
+
+.homepageLink:hover{
+    background-color: #f2f9fc;
+    display: block;
+}
+
+.homepageLinkCaption{
+    text-decoration: none;
+    color: rgb(52, 51, 51);
+}
+
