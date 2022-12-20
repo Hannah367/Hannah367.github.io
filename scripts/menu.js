@@ -30,4 +30,8 @@ document.write('</ul>');
 document.write('</li>');
 
 document.write('</ul>');
-document.write('</div></div></nav>');
+document.write('</div>');
+document.write('</div>');
+document.write('<a class="navbar-brand" href="https://github.com/Hannah367"><img src="resources/githubi.png" width="30" height="30" alt=""></a>');
+document.write('<a class="navbar-brand" href="https://www.linkedin.com/in/hannahstutely/"><img src="resources/linkedin.png" width="30" height="30" alt=""></a>');
+document.write('</nav>');
