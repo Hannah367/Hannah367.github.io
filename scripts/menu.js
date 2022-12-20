@@ -33,12 +33,12 @@ document.write('</ul>');
 
 document.write('<ul class="navbar-nav">')
 
-document.write('<div class="d-sm-none d-md-block"');
+document.write('<div class="d-none d-md-block"');
 document.write('<li class="nav-item float-end"><a class="navbar-brand" href="https://github.com/Hannah367"><img src="resources/githubi.png" width="30" height="30" alt=""></a></li>');
 document.write('<li class="nav-item float-end"><a class="navbar-brand" href="https://www.linkedin.com/in/hannahstutely/"><img src="resources/linkedin.png" width="30" height="30" alt=""></a></li>');
 document.write('</div>');
 
-document.write('<div class="d-none d-sm-block d-md-none"');
+document.write('<div class="d-md-none"');
 document.write('<li class="nav-item float-end"><a class="navbar-brand" href="https://github.com/Hannah367"><img src="resources/githubi.png" width="30" height="30" alt=""></a><a class="navbar-brand" href="https://www.linkedin.com/in/hannahstutely/"><img src="resources/linkedin.png" width="30" height="30" alt=""></a></li>');
 document.write('</div>');
 
