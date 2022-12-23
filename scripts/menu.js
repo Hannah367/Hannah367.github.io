@@ -1,5 +1,5 @@
 
-document.write('<nav class="navbar navbar-expand-lg bg-light"><div class="container-fluid"><a class="navbar-brand" href="index.html">Hannah Stutely : Portfolio</a><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">');
+document.write('<nav class="navbar navbar-expand-md bg-light"><div class="container-fluid"><a class="navbar-brand" href="index.html">Hannah Stutely : Portfolio</a><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">');
 document.write('<ul class="navbar-nav me-auto mb-2 mb-lg-0">');
 document.write('<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>');
 
@@ -30,8 +30,20 @@ document.write('</ul>');
 document.write('</li>');
 
 document.write('</ul>');
+
+document.write('<ul class="navbar-nav">')
+
+document.write('<div class="d-none d-md-block"');
+document.write('<li class="nav-item float-end"><a class="navbar-brand" href="https://github.com/Hannah367"><img src="resources/githubi.png" width="30" height="30" alt=""></a></li>');
+document.write('<li class="nav-item float-end"><a class="navbar-brand" href="https://www.linkedin.com/in/hannahstutely/"><img src="resources/linkedin.png" width="30" height="30" alt=""></a></li>');
+document.write('</div>');
+
+document.write('<div class="d-md-none"');
+document.write('<li class="nav-item float-end"><a class="navbar-brand" href="https://github.com/Hannah367"><img src="resources/githubi.png" width="30" height="30" alt=""></a><a class="navbar-brand" href="https://www.linkedin.com/in/hannahstutely/"><img src="resources/linkedin.png" width="30" height="30" alt=""></a></li>');
+document.write('</div>');
+
+
+document.write('</ul>');
 document.write('</div>');
 document.write('</div>');
-document.write('<a class="navbar-brand" href="https://github.com/Hannah367"><img src="resources/githubi.png" width="30" height="30" alt=""></a>');
-document.write('<a class="navbar-brand" href="https://www.linkedin.com/in/hannahstutely/"><img src="resources/linkedin.png" width="30" height="30" alt=""></a>');
 document.write('</nav>');
