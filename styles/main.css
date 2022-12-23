@@ -2,7 +2,8 @@
     display: grid;
     grid-template-columns: auto auto;
 }
-img {
+
+.myImages {
     width: 100%;
 }
 
