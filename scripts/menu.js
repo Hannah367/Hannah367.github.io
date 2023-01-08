@@ -23,6 +23,7 @@ document.write('<ul class="dropdown-menu">');
 document.write('<li><a class="dropdown-item" href="cooperate.html">Cooperate</a></li>');
 document.write('<li><a class="dropdown-item" href="dayinthelife.html">A Day In The Life</a></li>');
 document.write('<li><a class="dropdown-item" href="woods.html">Lost in the Woods</a></li>');
+document.write('<li><a class="dropdown-item" href="drawings.html">Digital Art and Social Media</a></li>');
 document.write('<li><a class="dropdown-item" href="disney.html">Disney World Website</a></li>');
 document.write('<li><a class="dropdown-item" href="polarbear.html">Polar Bear News</a></li>');
 document.write('<li><a class="dropdown-item" href="holiday.html">Holiday Videos</a></li>');
