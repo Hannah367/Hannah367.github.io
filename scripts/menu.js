@@ -21,6 +21,7 @@ document.write('</li>');
 document.write('<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Other Projects</a>');
 document.write('<ul class="dropdown-menu">');
 document.write('<li><a class="dropdown-item" href="cooperate.html">Cooperate</a></li>');
+document.write('<li><a class="dropdown-item" href="business.html">Business Module</a></li>');
 document.write('<li><a class="dropdown-item" href="dayinthelife.html">A Day In The Life</a></li>');
 document.write('<li><a class="dropdown-item" href="woods.html">Lost in the Woods</a></li>');
 document.write('<li><a class="dropdown-item" href="drawings.html">Digital Art and Social Media</a></li>');
