@@ -9,12 +9,13 @@ document.write('<li class="nav-item"><a class="nav-link" href="skills.html">Skil
 
 document.write('<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Recent Projects</a>');
 document.write('<ul class="dropdown-menu">');
+document.write('<li><a class="dropdown-item" href="bookingsystem.html">Figma System Designs</a></li>');
 document.write('<li><a class="dropdown-item" href="safetyapp.html">Night Owl</a></li>');
 document.write('<li><a class="dropdown-item" href="nanolife.html">NanoLife</a></li>');
 document.write('<li><a class="dropdown-item" href="uxdTrain.html">NRM Train Exhibit</a></li>');
 document.write('<li><a class="dropdown-item" href="partyanimals.html">Party Animals: Hospital Rush</a></li>');
 document.write('<li><a class="dropdown-item" href="cricket.html">Cricket Analyse</a></li>');
-document.write('<li><a class="dropdown-item" href="nft.html">PartyPuses NFT</a></li>');
+document.write('<li><a class="dropdown-item" href="woods.html">Lost in the Woods</a></li>');
 document.write('</ul>');
 document.write('</li>');
 
@@ -23,9 +24,9 @@ document.write('<ul class="dropdown-menu">');
 document.write('<li><a class="dropdown-item" href="cooperate.html">Cooperate</a></li>');
 document.write('<li><a class="dropdown-item" href="business.html">Business Module</a></li>');
 document.write('<li><a class="dropdown-item" href="dayinthelife.html">A Day In The Life</a></li>');
-document.write('<li><a class="dropdown-item" href="woods.html">Lost in the Woods</a></li>');
 document.write('<li><a class="dropdown-item" href="drawings.html">Digital Art and Social Media</a></li>');
 document.write('<li><a class="dropdown-item" href="disney.html">Disney World Website</a></li>');
+document.write('<li><a class="dropdown-item" href="nft.html">PartyPuses NFT</a></li>');
 document.write('<li><a class="dropdown-item" href="polarbear.html">Polar Bear News</a></li>');
 document.write('<li><a class="dropdown-item" href="holiday.html">Holiday Videos</a></li>');
 document.write('</ul>');
